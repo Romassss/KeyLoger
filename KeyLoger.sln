@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLoger", "KeyLoger\KeyLoger.csproj", "{E07C93A8-DC38-4988-912E-48589F69C5B7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{A090745C-98BE-4685-84F0-6D4A5D412448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07C93A8-DC38-4988-912E-48589F69C5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07C93A8-DC38-4988-912E-48589F69C5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07C93A8-DC38-4988-912E-48589F69C5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07C93A8-DC38-4988-912E-48589F69C5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A090745C-98BE-4685-84F0-6D4A5D412448}.Debug|Any CPU.ActiveCfg = Debug
+		{A090745C-98BE-4685-84F0-6D4A5D412448}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Monowar\Desktop\KeyLoger\KeyLoger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\KeyLoger\KeyLoger\bin\Debug\KeyLoger.exe
+C:\Users\Monowar\Desktop\KeyLoger\KeyLoger\bin\Debug\KeyLoger.pdb
+C:\Users\Monowar\Desktop\KeyLoger\KeyLoger\obj\Debug\KeyLoger.exe
+C:\Users\Monowar\Desktop\KeyLoger\KeyLoger\obj\Debug\KeyLoger.pdb
+J:\Programme\Projects\KeyLoger\KeyLoger\obj\Debug\KeyLoger.exe
+J:\Programme\Projects\KeyLoger\KeyLoger\obj\Debug\KeyLoger.pdb
+J:\Programme\Projects\KeyLoger\KeyLoger\bin\Debug\KeyLoger.exe
+J:\Programme\Projects\KeyLoger\KeyLoger\bin\Debug\KeyLoger.pdb
+J:\Programme\Projects\KeyLoger\KeyLoger\obj\Debug\ResolveAssemblyReference.cache
